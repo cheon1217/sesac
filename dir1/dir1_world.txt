@@ -1,0 +1,3 @@
+feature2 속 dir1안에 dir1_world 파일 입니다.
+
+어후 복잡해
