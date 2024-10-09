@@ -1,0 +1,5 @@
+안녕하세요. 
+
+feature2 속에 dir2 안에 dir2_world.txt 파일입니다.
+
+즐거운 시간 보내세용
